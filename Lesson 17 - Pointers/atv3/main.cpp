@@ -1,6 +1,6 @@
 // C++20 Masterclass
 //-------------------------------
-// Pointer to char
+// Arrays of pointer to char
 //-------------------------------
 // Student: Breno Freitas Aguirres
 // Date: 04/09/23
